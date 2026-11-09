@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jelajah Jogja</string>
+    <string name="app_subtitle">Rekomendasi tempat di Yogyakarta</string>
+    <string name="back">Kembali</string>
+    <string name="open_in_maps">Buka di Peta</string>
+    <string name="maps_not_available">Aplikasi peta atau browser tidak ditemukan</string>
+    <string name="highlight_label">Andalan</string>
+    <string name="place_count">%1$d tempat</string>
+</resources>
